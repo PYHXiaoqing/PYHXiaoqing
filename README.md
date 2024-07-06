@@ -9,3 +9,17 @@
 我是名编程爱好者。目前正在学习Python和前端。没有我想不到的， 只有我写不出来的...
 
 祝我学业有成=w=
+
+---
+
+## Welcome to my homepage!
+
+**Hello, I am PengYuhan, and my nickname on social platforms is usually Xiaoqing. Male, currently 15 years old, settled in Ningbo, Zhejiang, China. A junior high school student, Minecraft player, programming enthusiast😀...**
+
+I am a junior high school student, studying in an ordinary junior high school in Ningbo. My grades are okay🤭, English and social studies (history, geography and morality and rule of law) are the best, and Chinese is relatively poor😐... I like English and information classes the most. I hope to be admitted to Yinzhou Middle School (which is relatively good). Come on...
+
+I am a Minecraft player, and I have played it for about six or seven years. From the bedrock version to the Java version to the international version, I have always loved Minecraft. I like architecture, redstone and bed wars. I am a block man in life and a block soul in death! It is also because of Minecraft that I gradually became interested in programming.
+
+I am a programming enthusiast. I am currently learning Python and front-end. There is nothing I can't think of, only what I can't write...
+
+I wish me academic success =w=
